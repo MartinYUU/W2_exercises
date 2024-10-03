@@ -1,0 +1,11 @@
+CREATE DATABASE Restaurant;
+
+CREATE TABLE Employees
+(
+	Employee_ID INT PRIMARY KEY AUTO_INCREMENT,
+    First_Name VARCHAR(20) NOT NULL,
+    Last_Name VARCHAR(20) NOT NULL,
+    Phone_Number VARCHAR(10) NOT NULL,
+    Address VARCHAR(50) NOT NULL
+
+) ;
