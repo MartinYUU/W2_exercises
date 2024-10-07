@@ -1,0 +1,19 @@
+﻿Id,Start time,Completion time,Time,Email,Name,Rank_Experience(1-5),Visit_Frequency,Reason_For_Returning,Return_If_offered_discount,Most_Common_order_Method,Rank_Likelyhood_Of_Recommendation,Willingness_to_Receive_Email/Text
+1,09/26/2024 10:21:26,09/26/2024 10:21:45, 00:19,anonymous,NULL,4,Weekly,Service experience,Yes,Take out,5,Yes
+2,09/26/2024 10:20:55,09/26/2024 10:22:18, 01:23,anonymous,NULL,NULL,NULL,NULL,Maybe,NULL,3,No
+3,09/26/2024 10:21:26,09/26/2024 10:23:13, 01:47,anonymous,NULL,3,Monthly,Quality of food,Yes,Dine in,2,Yes
+4,09/26/2024 10:34:38,09/26/2024 10:34:54, 00:16,anonymous,NULL,3,This is my first time,Menu variety,Yes,Dine in,4,Yes
+5,09/26/2024 10:35:51,09/26/2024 10:36:13, 00:22,anonymous,NULL,5,This is my first time,Atmosphere,Yes,Take out,5,Maybe
+6,09/26/2024 10:38:55,09/26/2024 10:39:19, 00:24,anonymous,NULL,5,This is my first time,Atmosphere,Yes,Take out,5,Yes
+7,09/26/2024 10:45:14,09/26/2024 10:47:58, 02:44,anonymous,NULL,5,Monthly,Quality of food,Maybe,Dine in,5,Yes
+8,09/26/2024 10:48:13,09/26/2024 10:49:37, 01:24,anonymous,NULL,5,Daily,Atmosphere,Yes,Dine in,5,Maybe
+9,09/26/2024 10:49:38,09/26/2024 10:50:14, 00:36,anonymous,NULL,5,This is my first time,Quality of food,Yes,Dine in,5,Yes
+10,09/26/2024 10:50:05,09/26/2024 10:50:24, 00:19,anonymous,NULL,5,Seasonal,Menu variety,Yes,Dine in,5,Yes
+11,09/26/2024 10:53:26,09/26/2024 10:54:26, 01:00,anonymous,NULL,4,This is my first time,Atmosphere,Yes,Take out,4,Yes
+12,09/26/2024 10:54:54,09/26/2024 10:55:55, 01:01,anonymous,NULL,4,Seasonal,Quality of food,Maybe,Take out,4,Maybe
+13,09/26/2024 10:55:53,09/26/2024 10:56:18, 00:25,anonymous,NULL,5,Seasonal,Quality of food,Yes,Dine in,5,Yes
+14,09/26/2024 10:55:53,09/26/2024 10:56:21, 00:28,anonymous,NULL,5,This is my first time,Menu Prices,Yes,Dine in,4,No
+15,09/26/2024 10:56:16,09/26/2024 10:57:02, 00:46,anonymous,NULL,4,Monthly,Menu variety,Yes,Dine in,5,Yes
+16,09/26/2024 11:06:29,09/26/2024 11:08:02, 01:33,anonymous,NULL,4,This is my first time,Quality of food,Yes,Dine in,4,Yes
+17,09/26/2024 12:26:32,09/26/2024 12:27:36, 01:04,anonymous,NULL,4,Monthly,Menu Prices,Maybe,Delivery,5,No
+,,,,,,,,,,,,
